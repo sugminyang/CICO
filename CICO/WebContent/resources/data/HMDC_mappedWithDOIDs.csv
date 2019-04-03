@@ -1,0 +1,492 @@
+tissu,tissue_name,tumor,tumor_name,count,DOID,alternateID,,
+TBA,"all tumor bearing animals, NCI/NTP",mix,more than one tumor type; tumor types specified in published paper,5477,,,,
+liv,liver,hpc,hepatocellular carcinoma,3428,DOID:684,DOID:5005,,
+liv,liver,hpa,hepatocellular adenoma,2907,DOID:0050868,,,
+liv,liver,nnd,neoplastic nodule,1868,DOID:1324,"DOID:13075
+DOID:1322
+DOID:9881",,
+TBA,"all tumor bearing animals, NCI/NTP",tum,tumor or more than one tumor type; tumor types not specified in paper,1645,,,,
+lun,lung,a/a,alveolar/bronchiolar adenoma,1321,DOID:8003,,,
+zym,Zymbal's gland,ade,adenoma,1282,DOID:833,,,
+lun,lung,a/c,alveolar/bronchiolar carcinoma,1226,DOID:8003,,,
+liv,liver,hpt,hepatoma,808,DOID:684,DOID:5005,,
+for,forestomach,sqc,squamous-cell carcinoma,768,DOID:5516,,gastric squamous cell carcinoma,
+rec,rectum,adc,adenocarcinoma,590,DOID:1996,,,
+zym,Zymbal's gland,car,carcinoma,549,DOID:833,,,
+TBA,"all tumor bearing animals, NCI/NTP",mal,malignant tumor,539,,,,
+for,forestomach,sqp,squamous-cell papilloma,528,DOID:139,,squamous cell papilloma,
+liv,liver,hpb,hepatoblastoma,380,DOID:687,,,
+liv,liver,hes,hemangiosarcoma,297,DOID:268,,,
+TBA,"all tumor bearing animals, NCI/NTP",ben,benign tumor,248,,,,
+thy,thyroid gland,fca,follicular-cell adenoma,201,DOID:5389,,oxyphilic adenoma,
+ubl,urinary bladder,tcc,transitional-cell carcinoma,200,DOID:4006,,transitional-cell carcinoma,
+---,all sites,hem,hemangioma,191,DOID:255,,,
+mgl,mammary gland,fba,fibroadenoma,176,DOID:1618,"DOID:2684
+DOID:2693
+DOID:7226",,
+kid,kidney,rua,tubule adenoma,167,DOID:2697,,,
+arp,adrenal capsule,adn,"adenoma, NOS",164,DOID:656,,adrenal adenoma,
+ski,skin,pam,papilloma,159,DOID:3178,,,
+sub,subcutaneous tissue,fbs,fibrosarcoma,155,DOID:13081,,hemangioma of subcutaneous tissue,
+---,all sites,ang,angiosarcoma,150,DOID:0001816,,,
+thy,thyroid gland,fcc,follicular-cell carcinoma,148,DOID:4295,,follicular basal cell carcinoma,
+sub,subcutaneous tissue,fib,fibroma,143,DOID:0050871,,fibroma,
+mgl,mammary gland,acn,"adenocarcinoma, NOS",139,DOID:3458,,breast adenocarcinoma,
+pit,pituitary gland,can,"carcinoma, NOS",136,DOID:4916,,pituitary carcinoma,
+---,all sites,lym,lymphoma,113,DOID:0060058,"DOID:1033
+DOID:353",,
+liv,liver,hnd,hyperplastic nodule,109,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",liver cancer,
+---,all sites,mnl,mononuclear-cell leukemia,98,DOID:8527,"DOID:8526
+DOID:8809
+DOID:8884
+DOID:8935
+DOID:9151",monocytic leukemia,
+sub,subcutaneous tissue,sar,sarcoma,95,DOID:2687,,skin sarcoma,
+ubl,urinary bladder,tpp,transitional-cell papilloma,93,DOID:6933,DOID:2141,bladder transitional cell papilloma,
+---,all sites,leu,leukemia,93,DOID:1240,,,
+kid,kidney,uac,tubular-cell adenocarcinoma,86,DOID:4472,,mucinous tubular and spindle renal cell carcinoma,
+liv,liver,agm,angioma,82,DOID:271,,hemangioma of liver,
+kid,kidney,ruc,tubule carcinoma,81,DOID:4472,,mucinous tubular and spindle renal cell carcinoma,
+kid,kidney,tla,tubular-cell adenoma,79,DOID:4472,,mucinous tubular and spindle renal cell carcinoma,
+adr,adrenal gland,phe,pheochromocytoma,79,DOID:0050892,,,
+amd,adrenal medulla,pob,"pheochromocytoma, benign",76,DOID:7379,,adrenal medulla carcinoma,
+---,all sites,mly,malignant lymphoma,72,DOID:8675,,lymphosarcoma,
+per,peritoneum,srn,"sarcoma, NOS",72,DOID:1725,,peritoneum cancer,
+liv,liver,hct,hepatocellular tumor,72,DOID:5015,,fibrolamellar carcinoma,
+cli,clitoral gland,anb,"adenoma, bilateral",69,DOID:2401,DOID:2400,clitoris cancer,
+amd,adrenal medulla,phm,"pheochromocytoma, malignant",67,DOID:0080347,,,
+adr,adrenal gland,coa,cortical adenoma,66,DOID:0050891,,,
+smi,small intestine,mlp,"malignant lymphoma, lymphocytic type",65,DOID:8675,,lymphosarcoma,__ ___ ____ __.
+spl,spleen,mlm,"malignant lymphoma, mixed type",64,DOID:8675,,lymphosarcoma,__ ___ ____ __.
+ute,uterus,esp,endometrial stromal polyp,64,DOID:9042,,polyp of corpus uteri,
+thy,thyroid gland,cca,c-cell adenoma,59,DOID:7609,,parathyroid transitional clear cell adenoma,
+---,all sites,mlh,"malignant lymphoma, histiocytic type",58,DOID:8675,,lymphosarcoma,__ ___ ____ __.
+tes,testis,ict,interstitial-cell tumor,56,DOID:0050616,,malignant Leydig cell tumor,
+ski,skin,bcc,basal-cell carcinoma,53,DOID:2513,"DOID:4275
+DOID:4276",basal cell carcinoma,
+zym,Zymbal's gland,cnb,"carcinoma, bilateral",52,DOID:833,,,
+liv,liver,clc,cholangiocarcinoma,52,DOID:4947,DOID:5249,cholangiocarcinoma,
+rec,rectum,adp,adenomatous polyp,51,DOID:0050915,,,
+---,all sites,msm,"mesothelioma, malignant",49,DOID:1790,"DOID:4487
+DOID:6965
+DOID:7434",,
+thy,thyroid gland,ccr,c-cell carcinoma,46,DOID:3963,,,
+pan,pancreas,ana,acinar-cell adenoma,46,DOID:657,,,__ ___ ____ __.
+amd,adrenal medulla,pbb,"pheochromocytoma benign, bilateral",45,DOID:0050892,,,
+tes,testis,ica,interstitial-cell adenoma,44,DOID:4062,,testis sarcoma,
+liv,liver,cho,cholangioma,42,DOID:4947,DOID:5249,,
+---,all sites,vsc,all vascular tumors,39,DOID:175,"DOID:3339
+DOID:5454
+DOID:5548
+DOID:7019
+DOID:7020
+DOID:7392",,
+cvu,cervix uteri,ppa,papillary adenoma,39,DOID:6405,,ovarian papillary cystadenoma,
+ski,skin,bca,basal-cell adenoma,39,DOID:2513,,,
+---,all sites,hcs,histiocytic sarcoma,38,DOID:0050915,DOID:3936,,
+pni,pancreatic islets,isa,islet-cell adenoma,38,DOID:3892,DOID:3903,insulinoma,
+---,all sites,lys,lymphosarcoma,37,DOID:8675,DOID:8967,,
+ver,vertebra,ost,osteosarcoma,37,DOID:3347,DOID:183,,
+bod,body cavities,mso,mesothelioma,33,DOID:1790,"DOID:2645
+DOID:4487
+DOID:6965
+DOID:7434",,
+ski,skin,ker,keratoacanthoma,33,DOID:3149,,,
+bra,brain,ast,astrocytoma,33,DOID:3069,DOID:4861,,
+rec,rectum,pla,polypoid adenoma,30,DOID:0050915,,,
+col,colon,apn,"adenomatous polyp, NOS",30,DOID:0050912,,,
+tnv,tunica vaginalis,men,"mesothelioma, NOS",30,DOID:745,,epididymis adenomatoid tumor,
+---,all sites,lkm,"lymphoma and leukemia, combined",29,DOID:1037,,lymphocytic leukemia,
+ubl,urinary bladder,lei,leiomyosarcoma,28,DOID:5289,,,
+tes,testis,iab,"interstitial-cell adenoma, bilateral",28,DOID:4062,,testis sarcoma,
+pit,pituitary gland,cra,chromophobe adenoma,27,DOID:3828,,,
+liv,liver,hms,hemangioendothelial sarcoma,27,DOID:6193,,,__ ___ ____ __.
+ubl,urinary bladder,ley,leiomyoma,27,DOID:127,,,
+---,all sites,mlu,"malignant lymphoma, undifferentiated type",27,DOID:0060058,,,
+---,all sites,mno,"malignant lymphoma, NOS",26,DOID:0060058,,,
+ski,skin,sea,sebaceous adenoma,26,DOID:2648,,,
+liv,liver,nod,nodular hyperplasia,25,,,,
+liv,liver,hae,hemangioendothelioma,25,DOID:0080190,,,
+pit,pituitary gland,pda,pars distalis adenoma,24,DOID:3829,,,
+liv,liver,hcc,hepatocholangiocarcinoma,24,DOID:4947,DOID:5249,,
+---,all sites,lle,lymphocytic leukemia,24,DOID:1037,,,
+jej,jejunum,muc,mucinous cystadenocarcinoma,23,DOID:3603,,,
+nas,nasal cavity,oln,olfactory neuroblastoma,23,DOID:10812,,,
+liv,liver,cye,cystadenoma,23,DOID:2634,,,__ ___ ____ __.
+gam,gastric mucosa,cnd,"carcinoid tumor, malignant",22,DOID:4715,,gastric neuroendocrine neoplasm,
+ova,ovary,tua,tubular adenoma,22,DOID:6809,,vaginal tubular adenoma,
+for,forestomach,ppn,"papilloma, NOS",21,DOID:139,,,__ ___ ____ __.
+nas,nasal cavity,---,all tumors,21,DOID:10811,,,
+ski,skin,tri,trichoepithelioma,21,,,,
+lun,lung,alc,alveolar-cell carcinoma,20,DOID:4926,,,
+pni,pancreatic islets,isc,islet-cell carcinoma,20,DOID:1798,,,
+ova,ovary,gct,granulosa-cell tumor,20,DOID:2999,,,
+lun,lung,ala,alveolar-cell adenoma,19,DOID:4926,,,
+kid,kidney,rcc,renal-cell carcinoma,19,DOID:4450,,,
+liv,liver,lct,liver-cell tumor,19,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+mgl,mammary gland,cyn,"cystadenoma, NOS",19,DOID:2634,,,
+cvu,cervix uteri,adq,adenosquamous carcinoma,18,DOID:5636,,,
+liv,liver,lcc,liver-cell carcinoma,18,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+ubl,urinary bladder,ppc,papillary carcinoma,18,DOID:6408,,,
+kid,kidney,rca,renal-cell adenoma,18,DOID:2697,,,
+lun,lung,ptm,papillary tumor,17,DOID:5588,,,
+ute,uterus,ess,endometrial stromal sarcoma,17,DOID:4226,,,
+zym,Zymbal's gland,sec,sebaceous adenocarcinoma,17,DOID:4839,,,
+ova,ovary,pcy,"papillary cystadenoma, NOS",16,DOID:6405,,,
+liv,liver,bhp,"hepatoma, benign",16,DOID:684,,,
+pan,pancreas,acc,acinar-cell carcinoma,15,DOID:5742,,,
+nof,"nasal cavity, olfactory epithelium",neu,neuroblastoma,15,DOID:10812,,,
+stg,"stomach, glandular",nem,"neuroendocrine tumor, malignant",14,DOID:4715,,,
+liv,liver,lca,liver-cell adenoma,14,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+ova,ovary,mtb,"mixed tumor, benign",14,DOID:6211,,,
+mgl,mammary gland,cas,carcinosarcoma,14,DOID:8138,,thymus sarcomatoid carcinoma,
+thy,thyroid gland,fct,follicular-cell tumor,13,DOID:3962,,,
+---,all sites,rts,reticulum-cell sarcoma,13,DOID:1115,,,
+zym,Zymbal's gland,epc,epidermoid carcinoma,13,DOID:833,,,
+sub,subcutaneous tissue,nfs,neurofibrosarcoma,13,DOID:3512,,,
+thy,thyroid gland,fdc,follicular adenocarcinoma,13,DOID:3962,,,
+liv,liver,lpb,"liver-cell tumor, type B",13,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+kid,kidney,rab,"renal tubule adenoma, bilateral",13,DOID:2697,,,
+tes,testis,ldc,Leydig-cell tumor,12,DOID:4756,,,
+mul,multiple organs,grl,granulocytic leukemia,12,DOID:8692,,,
+stg,"stomach, glandular",neb,"neuroendocrine tumor, benign",12,DOID:4715,,,
+lun,lung,abt,alveolar/bronchiolar tumor,12,DOID:8003,,,
+lun,lung,act,alveolar-cell tumor,12,DOID:4926,,,
+bra,brain,gln,"glioma, NOS",11,DOID:0060108,,,
+liv,liver,esn,eosinophilic nodule,11,,,,
+kid,kidney,nep,nephroblastoma,11,DOID:2154,"DOID:5177
+DOID:5180",,
+ski,skin,ulc,undifferentiated carcinoma,11,DOID:5660,,lymphoepithelioma-like carcinoma,
+adr,adrenal gland,coc,cortical carcinoma,11,DOID:3959,,,
+liv,liver,mhp,malignant hepatoma,11,DOID:684,DOID:5005,,
+zym,Zymbal's gland,ssc,"squamous-cell carcinoma, sebaceous",11,DOID:5526,,,
+liv,liver,bsn,basophilic nodule,11,,,,
+---,all sites,lyk,lymphatic leukemia,10,DOID:1037,DOID:10747,,
+zym,Zymbal's gland,cuc,ceruminous carcinoma,10,DOID:6446,,,__ ___ ____ __.
+sub,subcutaneous tissue,lip,lipoma,10,DOID:10188,"DOID:10198
+DOID:3943",,
+liv,liver,hch,hepatocholangioma,10,DOID:4947,DOID:5249,,
+thy,thyroid gland,pcn,"papillary cystadenocarcinoma, NOS",10,DOID:3110,,,
+---,all sites,lhc,"lymphoma, histiocytic type",10,DOID:0060058,"DOID:1033
+DOID:353",,
+nas,nasal cavity,ene,esthesioneuroepithelioma,10,DOID:369,,,
+ova,ovary,gcb,"granulosa-cell tumor, benign",10,DOID:2999,,,
+MXB,"more than one site, combined by Berkeley for the CPDB",MXB,"more than one tumor type, combined by Berkeley for the CPDB",9,,,,
+mgl,mammary gland,adf,adenofibroma,9,DOID:1618,"DOID:2684
+DOID:2693
+DOID:7226",,
+ova,ovary,gcc,granulosa-cell carcinoma,9,DOID:2999,DOID:5333,,
+liv,liver,bht,"hepatocellular tumor, benign",9,DOID:5015,,,
+pit,pituitary gland,crc,chromophobe carcinoma,9,,,,
+kid,kidney,mnp,mesenchymal neoplasm,9,DOID:3350,DOID:1630,,
+nse,nose,cic,"carcinoma, in situ",8,DOID:4931,,,
+---,all sites,fih,fibrous histiocytoma,8,DOID:4415,,,
+bra,brain,gli,glioma,8,DOID:0060108,,,
+mgl,mammary gland,pac,papillary adenocarcinoma,8,DOID:3112,DOID:5596,,__ ___ ____ __.
+ilm,ileum,mua,mucinous adenocarcinoma,8,DOID:3029,,,
+tes,testis,lya,Leydig-cell adenoma,8,DOID:4756,,,
+thy,thyroid gland,fab,"follicular-cell adenoma, bilateral",8,DOID:5389,,,
+liv,liver,thc,"hepatocellular carcinoma, trabecular",8,DOID:3964,,,
+hag,Harderian gland,adi,"adenocarcinoma, bilateral",8,DOID:2174,,,
+bra,brain,mag,malignant glioma,7,DOID:3070,DOID:2627,,
+amd,adrenal medulla,phc,"pheochromocytoma, complex",7,DOID:0050892,,,
+lun,lung,bro,bronchogenic carcinoma,7,DOID:3910,"DOID:3909
+DOID:4826",,
+ski,skin,bct,basal-cell tumor,7,DOID:2513,"DOID:4275
+DOID:4276",,
+lun,lung,bcd,bronchiolar adenoma,7,DOID:8003,,,
+spl,spleen,npm,"neoplasm, NOS, malignant",7,DOID:672,DOID:671,,
+---,all sites,mye,myelocytic leukemia,7,DOID:8692,"DOID:8878
+DOID:8879
+DOID:8910
+DOID:9066
+DOID:9126",,
+---,all sites,mle,monocytic leukemia,7,DOID:8527,"DOID:8526
+DOID:8809
+DOID:8884
+DOID:8935
+DOID:9151",,
+nas,nasal cavity,olc,olfactory carcinoma,7,DOID:4931,,,__ ___ ____ __.
+mgl,mammary gland,adb,"adenocarcinoma, type B",7,DOID:3458,,,
+sub,subcutaneous tissue,nfm,neurofibroma,7,DOID:962,,,
+bra,brain,ogm,"olfactory lobe, glioma malignant",7,DOID:0060108,,,
+---,all sites,ule,undifferentiated leukemia,7,DOID:1240,DOID:9145,,
+ski,skin,epo,epithelioma,7,DOID:2513,"DOID:4275
+DOID:4276",,
+---,all sites,nen,"neoplasm, NOS",6,,,,
+lun,lung,agc,alveogenic adenocarcinoma,6,DOID:4926,,,
+ski,skin,sbr,sebaceous gland carcinoma,6,DOID:4839,,,
+lep,leptomeninges,lcl,lymphocytic lymphoma,6,DOID:6354,,CLL/SLL,
+for,forestomach,ivc,"carcinoma, invasive",6,DOID:5517,,,
+ova,ovary,gcm,"granulosa-cell tumor, malignant",6,DOID:2999,DOID:5333,,
+liv,liver,mhs,"histiocytoma, malignant",6,DOID:4231,,,__ ___ ____ __.
+---,all sites,lbl,lymphoblastic lymphoma,6,DOID:0080147,,,
+mgl,mammary gland,ccn,"cystadenocarcinoma, NOS",6,DOID:3609,,,
+bra,brain,oli,oligodendroglioma,6,DOID:3187,,,
+lun,lung,acb,alveolar/bronchiolar adenocarcinoma,6,DOID:8003,,,
+lun,lung,sqa,squamous-cell tumor,6,DOID:1749,DOID:5512,,
+liv,liver,blc,biliary cystadenoma,6,,,,
+mgl,mammary gland,mtm,"mixed tumor, malignant",6,DOID:1612,"DOID:1648
+DOID:4241",,
+spd,spinal cord,nim,neurinoma,6,DOID:2001,,neuroma,
+ubl,urinary bladder,pas,papillomatosis,6,DOID:2615,,,__ ___ ____ __.
+bra,brain,onm,"olfactory lobe, neuroblastoma malignant",6,DOID:4164,,,
+pit,pituitary gland,bsa,basophil adenoma,6,DOID:4542,,,
+for,forestomach,bcp,basal-cell papilloma,5,,,,
+nse,nose,apc,anaplastic carcinoma,5,,,,
+ova,ovary,lut,luteoma,5,DOID:7880,,,
+ski,skin,sqn,"squamous-cell carcinoma, in situ",5,DOID:3151,,,
+mgl,mammary gland,ado,adenoacanthoma,5,DOID:5524,DOID:6593,,
+lun,lung,neo,neoplasm,5,DOID:1324,DOID:6593,,
+for,forestomach,ama,acanthoma,5,DOID:174,,,__ ___ ____ __.
+mgl,mammary gland,fbm,"fibroadenoma, multiple",5,DOID:1618,"DOID:2684
+DOID:2693
+DOID:7226",,
+thy,thyroid gland,cdb,"c-cell adenoma, bilateral",5,,,,
+liv,liver,bda,bile duct adenoma,5,DOID:5381,,,
+kid,kidney,rct,renal-cell tumor,4,DOID:4450,,,
+ubl,urinary bladder,tsp,"transitional epithelium, squamous-cell papilloma",4,DOID:139,,,
+trh,trachea,mem,mixed-cell mucoepidermoid papilloma,4,DOID:0050919,,,
+trh,trachea,ppp,papillary polyp,4,,,,
+liv,liver,ccy,"cholangioma, cystic",4,DOID:4947,DOID:5249,,
+liv,liver,hpd,hepatocellular adenocarcinoma,4,DOID:684,DOID:5005,,
+amd,adrenal medulla,pmb,"pheochromocytoma malignant, bilateral",4,DOID:0080347,,,
+---,all sites,lmt,"lymphoma malignant, thymic origin",4,DOID:8675,DOID:8967,,
+crl,cerebellum,asl,"astrocytoma, malignant",4,DOID:4848,,,
+ski,skin,sgc,sweat gland carcinoma,4,DOID:5667,,,
+liv,liver,bdm,"intrahepatic bile duct tumor, malignant",4,DOID:5437,,,
+ubl,urinary bladder,tsc,"transitional epithelium, squamous-cell carcinoma",4,DOID:5531,,,
+---,all sites,myl,myeloid leukemia,4,DOID:8692,"DOID:8878
+DOID:8879
+DOID:8910
+DOID:9066
+DOID:9126",,
+pit,pituitary gland,pdc,pars distalis carcinoma,4,DOID:4916,,,
+liv,liver,bdh,intrahepatic bile duct tumor,4,DOID:5437,,,
+smi,small intestine,mcc,mucinous carcinoma,4,DOID:8339,,,
+lun,lung,agt,alveogenic tumor,4,DOID:4926,,,
+---,all sites,lsl,systemic and localized lymphoma,4,,,,
+liv,liver,caa,cholangioadenoma/carcinoma,4,DOID:686,,,
+ubl,urinary bladder,utp,urothelial papilloma,4,DOID:6936,,,
+kid,kidney,tlt,tubular-cell tumor,4,DOID:4929,,,
+liv,liver,mxp,"neoplasm of liver cell, bile duct, mesenchyme, Kupffer cell, or unknown",4,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+kid,kidney,tuc,tubular carcinoma,4,DOID:3458,,,
+mgl,mammary gland,ada,"adenocarcinoma, type A",4,DOID:3458,,,
+sub,subcutaneous tissue,scs,spindle-cell sarcoma,4,DOID:4235,,,
+kid,kidney,utc,urothelial carcinoma,4,DOID:5974,,,
+liv,liver,bdb,"intrahepatic bile duct tumor, benign",4,DOID:5381,,,
+liv,liver,kcs,Kupffer-cell sarcoma,4,DOID:270,,,
+ute,uterus,ena,endometrial adenocarcinoma,4,DOID:2870,"DOID:5827
+DOID:6650",,
+cns,central nervous system,glx,glial tumors (oligodendroglioma and astrocytoma),4,DOID:5076,,,
+kid,kidney,cyc,cystadenocarcinoma,4,DOID:3111,,,__ ___ ____ __.
+ute,uterus,rta,"reticulum-cell sarcoma, type A",4,DOID:6171,,,
+liv,liver,hph,hepatocellular hyperplastic nodule,4,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",liver cancer,
+thy,thyroid gland,fcy,"follicular-cell adenocarcinoma, bilateral",4,DOID:3962,,,
+liv,liver,MXA,"more than one tumor type, combined by NCI/NTP",4,,,,
+for,forestomach,sqi,"squamous-cell carcinoma, invasive",4,DOID:5516,,,
+frb,forebrain,olp,olfactory neuroepithelioma,3,DOID:369,,,
+---,all sites,anl,acute nonlymphocytic leukemia,3,DOID:9952,,acute lymphocytic leukemia,
+liv,liver,cac,cholangioadenocarcinoma,3,DOID:7642,,cholangiolocellular carcinoma,
+---,all sites,lyt,lymphoid tumor,3,DOID:2531,"DOID:1034
+DOID:2532",,
+ute,uterus,edc,"endometrium, adenocarcinoma",3,DOID:2870,"DOID:5827
+DOID:6650",endometrial adenocarcinoma,
+liv,liver,esa,eosinophilic adenoma,3,,,,
+hnt,hard palate/nasal turbinates,sqs,"squamous-cell carcinoma, stratified",3,DOID:5515,,,
+---,all sites,bly,B-cell lymphoma,3,DOID:707,,,
+sub,subcutaneous tissue,rhb,rhabdomyosarcoma,3,DOID:3247,,,
+tes,testis,itm,"interstitial-cell tumor, malignant",3,DOID:0050616,DOID:4755,,
+kid,kidney,ptc,papillary transitional-cell carcinoma,3,DOID:4012,,,__ ___ ____ __.
+liv,liver,ghc,"hepatocellular carcinoma, glandular",3,DOID:684,DOID:5005,,
+---,all sites,msb,"mesothelioma, benign",3,DOID:2645,DOID:2644,,
+liv,liver,bdc,bile duct carcinoma,3,DOID:686,,,
+thy,thyroid gland,ccb,"c-cell carcinoma, bilateral",3,DOID:8161,,thyroid Hurthle cell carcinoma,
+duo,duodenum,aca,adenocarcinoma in adenomatous polyp,3,DOID:10816,,,
+liv,liver,mhc,mixed hepato/cholangio carcinoma,3,,,,
+abd,abdomen,lps,liposarcoma,3,DOID:5700,,,
+liv,liver,hpn,hepatocellular neoplastic nodule,3,DOID:1324,"DOID:13075
+DOID:1322
+DOID:9881",,
+thy,thyroid gland,ald,alveolar adenoma,3,DOID:8003,,,__ ___ ____ __.
+ute,uterus,ead,"endometrium, adenoma",3,DOID:9042,,,
+pal,palate,bsb,"basosquamous tumor, benign",3,DOID:5063,,,
+pan,pancreas,aoc,acinar-cell adenocarcinoma,3,DOID:5742,,,
+mul,multiple organs,lkn,"leukemia, NOS",3,DOID:1240,DOID:9145,,
+liv,liver,cvh,cavernous hemangioma,2,DOID:483,,,__ ___ ____ __.
+spl,spleen,hpm,"hemangiopericytoma, malignant",2,DOID:264,,,__ ___ ____ __.
+kid,kidney,cla,clear-cell adenoma,2,DOID:5390,,,
+mul,multiple organs,gsa,granulocytic sarcoma,2,DOID:8683,"DOID:8682
+DOID:8848",,
+mgl,mammary gland,dpp,ductal papilloma,2,DOID:7511,,,
+---,all sites,ile,"leukemia, indeterminate type",2,DOID:1240,DOID:9145,,
+ski,skin,mlt,melanotic tumor,2,DOID:4290,,adamantinoid basal cell epithelioma,
+stg,"stomach, glandular",pvc,"carcinoma, preinvasive",2,DOID:5517,,,
+kid,kidney,tcb,"tubular-cell carcinoma, bilateral",2,DOID:4472,,,
+kid,kidney,epn,epithelial neoplasm,2,,,,
+ski,skin,seb,sebaceous adenoma and adenocarcinoma,2,DOID:2648,DOID:7387,,
+thy,thyroid gland,pfa,parafollicular-cell adenoma,2,DOID:8162,,,
+liv,liver,nsc,neurosarcoma,2,DOID:3512,,,__ ___ ____ __.
+---,all sites,lls,lymphoblastic leukemia-lymphosarcoma,2,DOID:8675,DOID:8967,,
+nas,nasal cavity,vlp,villous polyp,2,,,,
+bra,brain,mnm,"meningioma, malignant",2,DOID:0060106,,,
+ova,ovary,sxs,"sex-cord stromal tumor, benign",2,DOID:0080369,,,
+nol,n. olfactorius,epd,ependymoblastoma,2,DOID:4794,,,
+liv,liver,cad,cholangioadenoma,2,DOID:5381,,,
+liv,liver,hmm,"hemangioendothelioma, malignant",2,,,,
+ner,nervous system,ngs,neurogenic sarcoma,2,DOID:3512,,,
+bra,brain,gcl,"granulosa-cell tumor, NOS",2,,,,
+nof,"nasal cavity, olfactory epithelium",nis,"neuroblastoma, in situ",2,DOID:10812,,,
+pit,pituitary gland,het,hemorrhagic tumor,2,DOID:1785,DOID:5671,,
+lun,lung,bde,bronchiolar adenocarcinoma,2,DOID:5391,,,
+liv,liver,akt,adenoma-like tumor,2,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+eso,esophagus,ept,epidermoid tumor,2,DOID:1749,,,__ ___ ____ __.
+brm,"brain, meninges",grb,"granular-cell tumor, benign",2,,,,
+ova,ovary,sxb,"sex-cord stromal tumor, benign, bilateral",2,DOID:0080369,,,
+for,forestomach,exp,exophytic papilloma,2,,,,
+liv,liver,cgf,cholangiofibroma,2,,,,
+ubl,urinary bladder,spt,spindle-cell tumor,2,,,,
+kid,kidney,rue,tubule epithelium adenoma,2,,,,
+brm,"brain, meninges",mng,meningioma,2,DOID:0060106,,,
+hea,heart,ens,endocardial sarcoma,2,DOID:5262,,,
+pae,"pancreas, exocrine",aod,"adenocarcinoma, acinar or ductal",2,DOID:5742,,,
+pro,prostate,sqk,"squamous-cell carcinoma, keratinized",2,DOID:10287,,,
+der,dermis,mlc,melanocytoma,2,,,,
+pan,pancreas,exa,exocrine adenoma,2,DOID:3918,,,
+kid,kidney,tlc,tubular-cell carcinoma,2,DOID:4472,,,
+adr,adrenal gland,pbm,"pheochromocytoma, benign/malignant",2,DOID:0050892,,,
+liv,liver,mxc,mixed cell adenoma,2,DOID:5385,,,__ ___ ____ __.
+ubl,urinary bladder,nvc,"carcinoma, noninvasive",2,DOID:4001,,,
+liv,liver,mmx,"mesenchymal hemangio-sarcoma, -pericytoma, or -endothelioma, malignant",2,,,,
+lun,lung,ata,atypic adenoma,2,DOID:8292,,,
+lun,lung,mec,muco-epidermoid carcinoma,2,DOID:0050932,,,
+mgl,mammary gland,asm,adenocarcinoma with squamous metaplasia,2,DOID:3458,,,
+nas,nasal cavity,oec,olfactory epithelial carcinoma,2,DOID:10812,,,
+ute,uterus,emp,endometrial polyp,1,,,,
+lyd,lymph node,shs,mesenteric histiocytic sarcoma,1,,,,
+liv,liver,bdt,bile duct tumor,1,DOID:4606,DOID:10019,,
+liv,liver,fbl,fibroleiomyoma,1,DOID:4386,,,
+mgl,mammary gland,idc,infiltrating duct carcinoma,1,DOID:3008,DOID:3005,,
+nse,nose,pai,"papilloma, inverted",1,DOID:4633,,,
+nof,"nasal cavity, olfactory epithelium",nue,neuroepithelioma,1,DOID:369,,,
+adr,adrenal gland,mdt,medullary tumor,1,,,,
+ski,skin,squ,"squamous-cell carcinoma, unclassified",1,DOID:3151,,,
+mei,mesenteric intestine,ane,"angio-endothelioma, malignant",1,,,,
+hea,heart,rhm,rhabdomyoblastoma,1,,,,
+liv,liver,mht,"hepatocellular tumor, malignant",1,DOID:5015,,,
+ubl,urinary bladder,nvt,"transitional-cell carcinoma, noninvasive",1,DOID:4006,,transitional-cell carcinoma,
+sub,subcutaneous tissue,nlm,"neurilemoma, malignant",1,DOID:3192,,,
+liv,liver,hga,hemangiosarcoma anaplastic,1,DOID:268,,,
+liv,liver,rcs,round-cell sarcoma,1,,,,
+---,all sites,mlk,myelogenous leukemia,1,DOID:8692,"DOID:8878
+DOID:8879
+DOID:8910
+DOID:9066
+DOID:9126",,
+ski,skin,mel,melanoma,1,DOID:8923,"DOID:0050609
+DOID:10043
+DOID:10046
+DOID:10051
+DOID:10052
+DOID:10055
+DOID:8922",,
+ute,uterus,aep,adenomatous endometrial polyp,1,DOID:9042,,,
+---,all sites,plc,plasmacytoma,1,DOID:3721,,,
+adr,adrenal gland,mda,medullary adenoma,1,DOID:656,,,
+lyd,lymph node,dhs,"deep cervical, histiocytic sarcoma",1,,,,
+bra,brain,asb,"astrocytoma, benign",1,DOID:3069,DOID:4861,,
+adr,adrenal gland,con,"cortical adenoma, NOS",1,DOID:0050891,,,
+liv,liver,cab,"cholangiocellular tumor, benign",1,DOID:4927,,,
+scl,scalp,ecc,eccrine cylindroma,1,DOID:3136,,,
+ova,ovary,glb,"granulosa-cell tumor, bilateral",1,DOID:2999,,,
+adr,adrenal gland,csa,cortical subcapsular adenoma,1,DOID:0050891,,,
+tes,testis,icb,"interstitial-cell tumor, benign",1,DOID:0050616,,malignant Leydig cell tumor,
+liv,liver,chc,cholangiosarcoma,1,DOID:4947,DOID:5249,,
+bon,bone,otm,osteoma,1,DOID:10573,,,
+thm,thymus gland,tma,thymoma,1,DOID:3275,,,
+liv,liver,sad,scirrhous adenocarcinoma,1,DOID:4024,,,
+lun,lung,mhb,"hibernoma, malignant",1,DOID:6607,,,
+liv,liver,lcb,"liver-cell tumor, benign",1,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+pan,pancreas,ism,insuloma,1,DOID:3892,DOID:3903,,
+ova,ovary,sct,Sertoli-cell tumor,1,DOID:3577,,,
+liv,liver,hmb,"hemangioendothelioma, benign",1,DOID:0080190,,,
+mgl,mammary gland,fep,fibroepithelial tumor,1,,,,
+mul,multiple organs,myo,myelomonocytic leukemia,1,,,,
+kid,kidney,mmt,malignant mesenchymal tumor,1,,,,
+ntu,nasal turbinate,rsc,respiratory epithelial carcinoma,1,DOID:4931,,,
+lun,lung,crt,"carcinoma, combined glandular and squamous type",1,DOID:3905,,,
+lyd,lymph node,ahs,axillary histiocytic sarcoma,1,,,,
+bra,brain,mbm,"medulloblastoma, malignant",1,DOID:0050902,,,
+bra,brain,gmf,"glioma malignant, focal, mild",1,DOID:3070,DOID:2627,,
+liv,liver,pca,parenchymal adenoma,1,,,,
+tyf,thyroid follicle,mca,microadenoma,1,,,,
+liv,liver,hps,"hepatocellular carcinoma, solid",1,DOID:684,DOID:5005,,
+ute,uterus,amy,adenomyoma,1,DOID:4994,,,
+liv,liver,mfh,"fibrous histiocytoma, malignant",1,DOID:4415,,,
+lmr,lymphoreticular system,rtb,"reticulum-cell sarcoma, type B",1,DOID:8675,DOID:8967,,
+liv,liver,hca,hepatocellular carcinoma/adenoma,1,DOID:684,DOID:5005,,
+ute,uterus,rna,"reticulum-cell neoplasm, type A",1,DOID:363,DOID:4363,,
+lyd,lymph node,nhs,inguinal histiocytic sarcoma,1,,,,
+adr,adrenal gland,crn,"cortical adenocarcinoma, NOS",1,DOID:3959,,,
+kid,kidney,rac,renal tubule adenocarcinoma,1,,,,
+bra,brain,mnr,"meningioma, granular-cell",1,DOID:0060106,,,
+ova,ovary,tcm,thecoma,1,DOID:7676,,testicular thecoma,
+ute,uterus,pol,polyp,1,DOID:9042,,,
+liv,liver,lyp,lymphangioma,1,DOID:1475,,,
+sub,subcutaneous tissue,spm,"sarcoma, NOS",1,DOID:1115,DOID:3936,,
+liv,liver,ret,reticulum-cell tumor,1,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+ute,uterus,agf,angioma/fibroangioma,1,,,,
+lyd,lymph node,ihs,iliac histiocytic sarcoma,1,DOID:8675,,lymphosarcoma,
+liv,liver,cgd,"cholangiocarcinoma, ductular",1,DOID:4947,DOID:5249,cholangiocarcinoma,
+tes,testis,pms,papillary mesothelioma,1,,,,
+bil,bile duct,scc,spindle-cell carcinoma,1,DOID:4015,,,
+ova,ovary,gca,granulosa-cell adenoma,1,,,,
+liv,liver,lcm,"liver-cell tumor, malignant",1,DOID:3571,"DOID:12300
+DOID:269
+DOID:7330
+DOID:915
+DOID:919",,
+lyd,lymph node,rhs,"renal, histiocytic sarcoma",1,,,,
+ubl,urinary bladder,ivt,"transitional-cell carcinoma, invasive",1,DOID:4006,,transitional-cell carcinoma,
+duo,duodenum,adm,"adenomatous polyp, NOS or adenocarcinoma in adenomatous polyp",1,DOID:0050927,,,
+bil,bile duct,hmt,hamartoma,1,,,,
